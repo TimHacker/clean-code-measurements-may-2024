@@ -7,8 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce738bfa-8b6e-45da-a4ec-f3ea07ec717d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.probability/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ce738bfa-8b6e-45da-a4ec-f3ea07ec717d" name="Changes" comment="First day of measurements">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.probability/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.probability/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanCode.Test/MeasurementTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CleanCode.Test/MeasurementTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanCode/Measurement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CleanCode/Measurement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,53 +20,57 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TimHacker"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TimHacker&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TimHacker/clean-code-measurements-may-2024.git",
-    "accountId": "efb67e56-a7e4-4ca5-a7c2-7804db79a554"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TimHacker/clean-code-measurements-may-2024.git&quot;,
+    &quot;accountId&quot;: &quot;efb67e56-a7e4-4ca5-a7c2-7804db79a554&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b3f96aa726fca44980c0285de8f1bd49d05d011855ac8334510cee859fb717c/Assert.Conditions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2frxGcreklj3bK7CIJ4raDQ2gU0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "c78e6476-b571-4bc0-a94a-946f9281fc0b.executor": "Run",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;c78e6476-b571-4bc0-a94a-946f9281fc0b.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/timhacker/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/timhacker/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/timhacker/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/timhacker/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/timhacker/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/timhacker/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="c78e6476-b571-4bc0-a94a-946f9281fc0b">
+}</component>
+  <component name="RunManager">
     <configuration name="CleanCode" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -92,8 +98,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714572903401</updated>
-      <workItem from="1714572904597" duration="8011000" />
+      <workItem from="1714572904597" duration="11843000" />
     </task>
+    <task id="LOCAL-00001" summary="First day of measurements">
+      <option name="closed" value="true" />
+      <created>1714639433954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714639433954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +118,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="First day of measurements" />
+    <option name="LAST_COMMIT_MESSAGE" value="First day of measurements" />
   </component>
 </project>
